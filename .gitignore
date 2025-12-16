@@ -2,7 +2,7 @@
 node_modules/
 
 # Build de producción (Se genera con npm run build)
-dist/
+# dist/
 
 # Variables de entorno (¡CRÍTICO! Nunca subas tus contraseñas)
 .env

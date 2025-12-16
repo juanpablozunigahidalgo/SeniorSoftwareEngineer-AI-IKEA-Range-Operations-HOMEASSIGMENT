@@ -3,12 +3,12 @@
 > **Coding Assignment Submission**
 > **Role:** Senior Software Engineer - AI | IKEA Range Operations | Enabling Functions
 > **Candidate:** Juan Pablo Zúñiga Hidalgo
-> **Delivery Date:** Thursday, December 18, 2025
+> **Delivery Date:** Wednesday, December 17, 2025
 
 ---
 
 ## 📝 Overview
-This repository contains a robust **RESTful API** designed to manage store inventory. It implements full product lifecycle management and enforces strict business rules for stock adjustments to ensure data integrity.
+This repository contains a **RESTful API** designed to manage store inventory. It implements full product lifecycle management and enforces strict business rules for stock adjustments to ensure data integrity.
 
 The solution addresses all functional requirements and includes several **bonus implementations**, including containerization (Docker), interactive documentation (Swagger), and integration testing.
 
