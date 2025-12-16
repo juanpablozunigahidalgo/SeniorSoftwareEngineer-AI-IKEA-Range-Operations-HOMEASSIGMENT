@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 
 app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
-console.log("📄 Swagger Docs available at http://localhost:3000/api-docs");
+console.log("📄 Swagger Docs available at http://localhost:3000/api-docs"); 
 
 // Usamos el puerto desde la config centralizada
 const PORT = envs.port; 
