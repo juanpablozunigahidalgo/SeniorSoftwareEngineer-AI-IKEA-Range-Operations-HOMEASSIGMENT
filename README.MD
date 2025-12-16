@@ -12,6 +12,9 @@ This repository contains a **RESTful API** designed to manage store inventory. I
 
 The solution addresses all functional requirements and includes several **bonus implementations**, including containerization (Docker), interactive documentation (Swagger), and integration testing.
 
+If you want to see the logic explained simple follow the link 
+https://docs.google.com/presentation/d/10F90r_2IfNDeC90C7rVw_RCJr69VOQP9QxsecX2IW6k/edit?usp=sharing
+
 ---
 
 ## 🛠️ Technology & Design Decisions
